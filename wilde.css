@@ -1,0 +1,30 @@
+.speech{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 25px;
+    color: green;
+}
+.stage-direction{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: bisque;
+}
+.stage-direction:hover{
+    background-color: blueviolet;
+}
+.name{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color: burlywood;
+}
+.name:hover{
+    color: blue;
+   box-shadow: 20px 20px 20px 5px gray;
+   border: 10px double rgba(0, 0, 0, 0.418);
+}
+.ROSALIE{
+    color: darkgrey;
+}
+.LADYWINDERMERE{
+    color: darkmagenta;
+}
